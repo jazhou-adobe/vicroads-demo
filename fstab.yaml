@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p93711-e854864.adobeaemcloud.com/bin/franklin.delivery/jazhou-adobe/vicroads-demo/main"
+    url: "https://author-p116706-e1142141.adobeaemcloud.com/bin/franklin.delivery/jazhou-adobe/vicroads-demo/main"
     type: "markup"
     suffix: ".html"
