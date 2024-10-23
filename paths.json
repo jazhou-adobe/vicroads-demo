@@ -1,7 +1,5 @@
 {
   "mappings": [
-    "/content/vicroads-demo/:/",
-    "/content/vicroads-demo/configuration:/.helix/config.json",
-    "/content/vicroads-demo/metadata:/metadata.json"
+    "/content/vicroads-demo/:/"
   ]
 }
